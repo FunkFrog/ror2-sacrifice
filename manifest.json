@@ -1,0 +1,9 @@
+{
+  "name": "Sacrifice",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "EnemiesDropItems, but greatly improved!",
+  "dependencies": [
+    "bbepis-BepInExPack-1.3.1" 
+  ]
+}
